@@ -1,5 +1,5 @@
 # 340Project1
-created Senior Year Semester 1
+
 
 The goal of this project is to implement and evaluate the performance of several CPU scheduling algorithms by writing a 
 program that will simulate their executions. There are several important data structures (e.g., PCB, ready queue, blocked 
